@@ -1,0 +1,10 @@
+node_modules/
+
+.env
+.flaskenv
+
+dist/
+build/
+
+.DS_Store
+Thumbs.db
